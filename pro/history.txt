@@ -1,0 +1,54 @@
+Current Day, Date and Time is = Wed Dec 30 20:55:18 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 20:56:15 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:01:45 2020
+The searched term is :see
+Current Day, Date and Time is = Wed Dec 30 21:03:41 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:12:52 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:29:57 2020
+The searched term is :arr
+Current Day, Date and Time is = Wed Dec 30 21:46:49 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:48:17 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:49:03 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 21:54:10 2020
+The searched term is :red
+Current Day, Date and Time is = Wed Dec 30 22:01:35 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:08:27 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:15:32 2020
+The searched term is :loops
+Current Day, Date and Time is = Wed Dec 30 22:16:04 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:16:33 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:19:14 2020
+The searched term is :per
+Current Day, Date and Time is = Wed Dec 30 22:21:23 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:22:11 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:25:20 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:26:58 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:28:30 2020
+The searched term is :tic
+Current Day, Date and Time is = Wed Dec 30 22:41:09 2020
+The searched term is :term
+Current Day, Date and Time is = Wed Dec 30 22:41:47 2020
+The searched term is :yes
+Current Day, Date and Time is = Wed Dec 30 22:42:20 2020
+The searched term is :two
+Current Day, Date and Time is = Wed Dec 30 22:47:05 2020
+The searched term is :terminate
+Current Day, Date and Time is = Wed Dec 30 22:48:30 2020
+The searched term is :yes
+Current Day, Date and Time is = Wed Dec 30 22:48:57 2020
+The searched term is :term

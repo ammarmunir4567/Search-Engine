@@ -26,23 +26,9 @@ SearchEnginePlusPlus (SE++) is a C++ program that implements a basic search engi
 
 ## How to Use
 
-1. **Clone the Repository:**
-   ```
-   git clone https://github.com/your-username/SearchEnginePlusPlus.git
-   ```
 
-2. **Navigate to the Project Directory:**
-   ```
-   cd SearchEnginePlusPlus
-   ```
 
-3. **Compile and Run:**
-   ```
-   g++ src/*.cpp -o search_engine
-   ./search_engine
-   ```
-
-4. **Follow On-Screen Instructions:**
+2. **Follow On-Screen Instructions:**
    - Enter 'yes' to skip PART-I or 'no' to follow the sequence.
    - Enter search terms as prompted and view the results.
    - The program will maintain a search history in the `output/history.txt` file.

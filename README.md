@@ -1,4 +1,4 @@
-# Serach-Engine
+# Search-Engine
 Sure, here's an example of a README document for your GitHub project:
 
 ---
